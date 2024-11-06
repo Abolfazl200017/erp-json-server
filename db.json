@@ -6,20 +6,7 @@
     { "id": 4, "username": "sara_jafari", "firstName": "سارا", "lastName": "جعفری", "email": "sara.jafari@example.com", "gender": "female", "age": 28 },
     { "id": 5, "username": "mohammad_rezaei", "firstName": "محمد", "lastName": "رضایی", "email": "mohammad.rezaei@example.com", "gender": "male", "age": 33 },
     { "id": 6, "username": "fatemeh_kazemi", "firstName": "فاطمه", "lastName": "کاظمی", "email": "fatemeh.kazemi@example.com", "gender": "female", "age": 27 },
-    { "id": 7, "username": "hossein_alavi", "firstName": "حسین", "lastName": "علوی", "email": "hossein.alavi@example.com", "gender": "male", "age": 45 },
-    { "id": 8, "username": "leila_mostafavi", "firstName": "لیلا", "lastName": "مصطفوی", "email": "leila.mostafavi@example.com", "gender": "female", "age": 26 },
-    { "id": 9, "username": "masoud_moradi", "firstName": "مسعود", "lastName": "مرادی", "email": "masoud.moradi@example.com", "gender": "male", "age": 29 },
-    { "id": 10, "username": "narges_karimi", "firstName": "نرگس", "lastName": "کریمی", "email": "narges.karimi@example.com", "gender": "female", "age": 32 },
-    { "id": 11, "username": "sina_safari", "firstName": "سینا", "lastName": "صفری", "email": "sina.safari@example.com", "gender": "male", "age": 37 },
-    { "id": 12, "username": "elham_yazdani", "firstName": "الهام", "lastName": "یزدانی", "email": "elham.yazdani@example.com", "gender": "female", "age": 31 },
-    { "id": 13, "username": "amir_akbari", "firstName": "امیر", "lastName": "اکبری", "email": "amir.akbari@example.com", "gender": "male", "age": 34 },
-    { "id": 14, "username": "samira_nikfar", "firstName": "سمیرا", "lastName": "نیکفر", "email": "samira.nikfar@example.com", "gender": "female", "age": 29 },
-    { "id": 15, "username": "reza_farhadi", "firstName": "رضا", "lastName": "فرهادی", "email": "reza.farhadi@example.com", "gender": "male", "age": 39 },
-    { "id": 16, "username": "mahnaz_saberi", "firstName": "مهناز", "lastName": "صبوری", "email": "mahnaz.saberi@example.com", "gender": "female", "age": 24 },
-    { "id": 17, "username": "bahram_rahmani", "firstName": "بهرام", "lastName": "رحمانی", "email": "bahram.rahmani@example.com", "gender": "male", "age": 43 },
-    { "id": 18, "username": "maryam_farahani", "firstName": "مریم", "lastName": "فراهانی", "email": "maryam.farahani@example.com", "gender": "female", "age": 36 },
-    { "id": 19, "username": "arash_pourmohammadi", "firstName": "آرش", "lastName": "پورمحمدی", "email": "arash.pourmohammadi@example.com", "gender": "male", "age": 30 },
-    { "id": 20, "username": "shirin_mohtashami", "firstName": "شیرین", "lastName": "محتشمی", "email": "shirin.mohtashami@example.com", "gender": "female", "age": 22 }
+    { "id": 7, "username": "hossein_alavi", "firstName": "حسین", "lastName": "علوی", "email": "hossein.alavi@example.com", "gender": "male", "age": 45 }
   ],
   "articles": [
     { "id": 1, "title": "راهنمای سفر به شیراز", "content": "شیراز یکی از زیباترین شهرهای ایران است.", "author": "علی محمدی", "date": "2023-01-01" },
